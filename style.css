@@ -1,0 +1,13 @@
+div {
+    height: 170px;
+    width: 300px;
+    margin-bottom: 20px;
+    background-color: #CDCDCD;
+    border: 2px solid #CDCDCD;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYNLPwuNjydBfHlxcHq1N9nOdYWRrVUQteygQkR5X&s');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  div#no-background {
+    background-image: none;
+  }
